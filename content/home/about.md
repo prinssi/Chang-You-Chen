@@ -1,11 +1,11 @@
 ---
-widget: about
+widget: prinssi
 headless: true
 weight: 30
 title: Biography
 active: true
 author: admin
-widget_id: wowchemycms
+widget_id: Chang-You Chen
 design:
   background:
     color: "#dccf36"
