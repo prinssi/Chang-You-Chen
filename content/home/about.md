@@ -1,21 +1,19 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
+weight: 30
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
+widget_id: wowchemycms
+design:
+  background:
+    color: "#dccf36"
+    text_color_light: true
+    image_darken: 0
 ---
+I am a science graduate master from National Chung Hsing University, Graduate Institute of Microbiology and Public health. I also have experience with environmental engineering.
+
+
+
+Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!
