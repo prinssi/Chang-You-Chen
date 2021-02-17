@@ -1,6 +1,6 @@
 ---
-title: Chang You Chen
 role: Science master
+avatar_filename: b5ce68cf-fb68-4490-99a7-fa0f58d5fae0.jpg
 bio: ""
 interests:
   - Artificial Intelligence
@@ -25,9 +25,10 @@ education:
     - course: M.S. in Marine Environmental Engineering
       institution: National Kaohsiung University of Science and Technology
       year: 2018
-email: ""
 superuser: true
 highlight_name: false
+title: Chang You Chen
+email: ""
 ---
 I am a science graduate master from National Chung Hsing University, Graduate Institute of Microbiology and Public health. I also have experience with environmental engineering.
 
