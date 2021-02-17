@@ -35,4 +35,4 @@ I am a science graduate master from National Chung Hsing University, Graduate In
 
 Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
