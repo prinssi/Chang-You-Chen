@@ -8,7 +8,7 @@ author: admin
 widget_id: Chang-You Chen
 design:
   background:
-    color: "#dccf36"
+    color: rgba(236, 224, 74, 0.73)
     text_color_light: true
     image_darken: 0
 ---
