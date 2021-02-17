@@ -25,7 +25,7 @@ education:
     - course: M.S. in Marine Environmental Engineering
       institution: National Kaohsiung University of Science and Technology
       year: 2018
-superuser: true
+superuser: false
 highlight_name: false
 title: Chang You Chen
 email: ""
